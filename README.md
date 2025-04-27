@@ -61,8 +61,28 @@ PDF File (.pdf)
 ⚙️ How It Works
 ![image](https://github.com/user-attachments/assets/12e15bc0-93d4-468e-9754-fedc610ff505)
 
-✅ Here’s a detailed diagram explaining the internal flow of the application:
+
+🔥 Here’s a detailed diagram explaining the internal flow of the application:
 ![image](https://github.com/user-attachments/assets/d6bad1eb-c3d5-4153-983b-2b4b9ff7673d)
+
+
+🙏 Thank You
+
+Thank you,
+
+I hope you enjoy exploring the project as much as I enjoyed building it.
+
+Feel free to leave a ⭐️ !!
+
+Your feedback, suggestions, or contributions are always welcome.
+
+I'm still actively working on improving this project, refining the way fill-in-the-blank questions are generated, enhancing the layout, and adding new features.
+
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/murilofarias10/)
+
+✅ Visit my [Portfolio](https://murilofarias.netlify.app/)
+
+
 
 
 
