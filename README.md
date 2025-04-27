@@ -52,5 +52,4 @@ You can play online directly without needing to clone or run it locally:
 ✅ Here’s a detailed diagram explaining the internal flow of the application:
 ![image](https://github.com/user-attachments/assets/d6bad1eb-c3d5-4153-983b-2b4b9ff7673d)
 
-[Uploading File_Example_1.txt…]()
 
