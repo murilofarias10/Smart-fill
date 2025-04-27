@@ -1,7 +1,6 @@
 # Smart-fill
 🎯 Purpose
 This project was created as my final delivery for the Microsoft AI Agents Hackathon, showcasing how AI can be used to create dynamic and educational experiences. Smart Fill-in-the-Blanks is an interactive game designed to generate engaging "fill-in-the-blank"
-![image](https://github.com/user-attachments/assets/12e15bc0-93d4-468e-9754-fedc610ff505)
 
 🛠️ Technologies Used
 
@@ -10,15 +9,15 @@ This project was created as my final delivery for the Microsoft AI Agents Hackat
 ![Azure Inference](https://img.shields.io/badge/Azure-AI_Inference-blueviolet)
 ![GitHub Models](https://img.shields.io/badge/GitHub-Models-181717)
 
-Backend: Flask (Python)
+1. Backend: Flask (Python)
 
-Frontend: HTML, CSS, JavaScript. 
+2. Frontend: HTML, CSS, JavaScript. 
 
-AI Integration: Azure AI Inference
+3. AI Integration: Azure AI Inference
 
-Azure AI Inference (GitHub Models)
+4. Azure AI Inference (GitHub Models)
 
-Mistral-small Model (mistral-ai/Mistral-small)
+5. Mistral-small Model (mistral-ai/Mistral-small)
 
 
 🚀 How to Run Locally
@@ -42,5 +41,7 @@ API_HOST=github
 python app.py
 
 
+⚙️ How It Works
+![image](https://github.com/user-attachments/assets/12e15bc0-93d4-468e-9754-fedc610ff505)
 
 
