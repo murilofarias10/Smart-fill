@@ -1,4 +1,4 @@
-# Smart-fill
+[File_Example_1.txt](https://github.com/user-attachments/files/19931296/File_Example_1.txt)# Smart-fill
 🎯 Purpose
 This project was created as my final delivery for the Microsoft AI Agents Hackathon, showcasing how AI can be used to create dynamic and educational experiences. Smart Fill-in-the-Blanks is an interactive game designed to generate engaging "fill-in-the-blank"
 
@@ -40,8 +40,17 @@ API_HOST=github
 6. Run the application
 python app.py
 
+🌐 Try It Online
+I also deployed this project on Hugging Face Spaces!
+You can play online directly without needing to clone or run it locally:
+
+👉 https://huggingface.co/spaces/Kubik-Kodek/Smart-Quiz
 
 ⚙️ How It Works
 ![image](https://github.com/user-attachments/assets/12e15bc0-93d4-468e-9754-fedc610ff505)
 
+✅ Here’s a detailed diagram explaining the internal flow of the application:
+![image](https://github.com/user-attachments/assets/d6bad1eb-c3d5-4153-983b-2b4b9ff7673d)
+
+[Uploading File_Example_1.txt…]()
 
