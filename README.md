@@ -23,7 +23,7 @@ This project was created as my final delivery for the Microsoft AI Agents Hackat
 🚀 How to Run Locally
 
 1. Clone the repository
-git clone https://github.com/yourusername/smart-fill-in-the-blanks.git
+git clone [https://github.com/yourusername/smart-fill-in-the-blanks.git](https://github.com/murilofarias10/Smart-fill.git)
 
 2. Navigate to the project directory
 
