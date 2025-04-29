@@ -34,11 +34,16 @@ pip install -r requirements.txt
 4. Configure environment variables
 
 5. Create a .env file:
+   
 GITHUB_TOKEN=your_github_models_token_here
+
 GITHUB_MODEL="mistral-ai/Mistral-small"
+
 API_HOST=github
 
-6. Run the application
+also I've added one file .env_sample feel free to use it.
+
+7. Run the application
 python app.py
 
 🌐 Try It Online
